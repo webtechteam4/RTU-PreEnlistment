@@ -7,7 +7,7 @@
     "start": "node server",
     "server": "nodemon server"
   },
-  "author": "CEIT-15-1001E",
+  "author": "Erjohn Obando",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
